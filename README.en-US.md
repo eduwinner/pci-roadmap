@@ -19,6 +19,7 @@ This repository documents my structured journey toward architectural modernizati
 
 ## 🧭 **Repository Structure**
 
+```
 pci-roadmap/
 │
 ├── README.md
@@ -45,6 +46,7 @@ pci-roadmap/
 └── semana-04/
     ├── deploy-cloud/
     └── README.md
+```
 
 ---
 
