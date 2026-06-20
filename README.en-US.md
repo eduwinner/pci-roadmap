@@ -19,7 +19,32 @@ This repository documents my structured journey toward architectural modernizati
 
 ## 🧭 **Repository Structure**
 
-*(mesma estrutura acima)*
+pci-roadmap/
+│
+├── README.md
+├── LICENSE
+├── docs/
+│   ├── roadmap.md
+│   ├── arquitetura.md
+│   ├── glossario.md
+│   ├── metodologia.md
+│   └── mentor.md
+│
+├── semana-01/
+│   ├── api-tarefas-fastapi/
+│   └── README.md
+│
+├── semana-02/
+│   ├── fastapi-postgres-async/
+│   └── README.md
+│
+├── semana-03/
+│   ├── docker-ci-cd/
+│   └── README.md
+│
+└── semana-04/
+    ├── deploy-cloud/
+    └── README.md
 
 ---
 
